@@ -1,0 +1,2 @@
+# wptest
+wordpress / git test
